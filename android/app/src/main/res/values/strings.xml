@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">reactnative_typescript_base</string>
+    <string name="facebook_app_id">534559248390598</string>
+    <string name="fb_login_protocol_scheme">fb534559248390598</string>
+    <string name="facebook_client_token">475bfc4fcc2019b58f40dd188eae4c96</string>
+</resources>
